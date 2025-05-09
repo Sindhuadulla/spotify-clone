@@ -17,8 +17,10 @@ This project replicates the layout and design of Spotify’s desktop web app wit
 - Clean folder structure and maintainable codebase
 
 ## 📂 Folder Structure
+```
 spotify-clone/
 ├── assets
 ├── index.html
 ├── style.css
 └── README.md
+```
